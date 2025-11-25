@@ -114,13 +114,6 @@ const teamMembers = [
         quote: "It is what it is...",
       },
       {
-        name: "Tariq Jambocus",
-        position: "Marketing Specialist",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2023/11/Penny-Appeal-Staff-Illustrations_Tariq-Jambocus.png",
-        quote: "I like round oranges",
-      },
-      {
         name: "Firaz Khan",
         position: "Programs Communications Specialist",
         image:
