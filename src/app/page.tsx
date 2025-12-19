@@ -39,14 +39,6 @@ const teamMembers = [
         quote: "There is always a way",
       },
       {
-        name: "Rabea Soofi",
-        position: "Director of Programs",
-        email: "rabea.soofi@pennyappeal.ca",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/10/IMG_2363.jpg",
-        quote: "Don’t take life too seriously",
-      },
-      {
         name: "Reead Rahamut",
         position: "Director of Finance",
         email: "reead.rahamut@pennyappeal.ca",
@@ -248,14 +240,6 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Ammar-Syed-Fund-Development-Coordinatornewnew.jpg",
         quote: "It’s only a crazy dream until you do it!",
-      },
-     
-      {
-        name: "Malak Gandhi",
-        position: "Events Coordinator",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/06/pac-team-template-malak.png",
-        quote: "Nobody gets left behind!",
       },
     ],
   },
