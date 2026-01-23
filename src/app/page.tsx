@@ -43,7 +43,7 @@ const teamMembers = [
         position: "Director of Finance",
         email: "reead.rahamut@pennyappeal.ca",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/08/Untitled-design-3.png",
+          "https://pennyappeal.ca/wp-content/uploads/2026/01/Possible2.png",
         quote: "Welcome to the Wild West!",
       },
       {
@@ -58,20 +58,20 @@ const teamMembers = [
         email: "owais.hikmat@pennyappeal.ca",
         image: "https://pennyappeal.ca/wp-content/uploads/2025/02/owais.jpg",
         quote: "Outside of your comfort zone is where magic happens.",
+      },{
+        name: "Ahmad Hamad",
+        position: "Interim Director of Programs",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Ahmad-Hamad.png",
+        quote:
+          "Education is our passport to the future, for tomorrow belongs to those who prepare for it today. - Malcolm X",
       },
     ],
   },
   {
     category: "Programs",
     members: [
-      {
-        name: "Ahmad Hamad",
-        position: "Programs Manager",
-        image:
-          "https://pennyappeal.ca/wp-content/uploads/2025/10/Penny-Appeal-Staff-Illustrations_Ahmad-Hamad.png",
-        quote:
-          "Education is our passport to the future, for tomorrow belongs to those who prepare for it today. - Malcolm X",
-      },
+      
       {
         name: "Saba Durrani",
         position: "Programs Manager",
@@ -81,7 +81,7 @@ const teamMembers = [
 
       {
         name: "Nimco Mohamed",
-        position: "Community Social Development Officer",
+        position: "Senior Programs Officer",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/02/Nimco-Mohamed-Community-Social-Development-Officernewnew.jpg",
         quote: "Think outside the box",
@@ -139,7 +139,7 @@ const teamMembers = [
     members: [
       {
         name: "Tazmin Keval",
-        position: "Donor Care Manager",
+        position: "Senior Manager – Major Gifts and Donor Relations",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2022/03/Penny-Appeal-Staff-Illustrations_Tazmin-Keval.png",
         quote: "Kindness is contagious",
@@ -201,7 +201,7 @@ const teamMembers = [
     members: [
       {
         name: "Zubair Abid",
-        position: "Regional Manager - British Columbia",
+        position: "Regional Manager - Western Canada",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2022/06/Penny-Appeal-Staff-Illustrations_Zubair-Abid.png",
         quote: "Let's do this!",
