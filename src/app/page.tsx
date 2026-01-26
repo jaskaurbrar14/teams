@@ -219,6 +219,12 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2025/07/pac-team-template-Hassan.png",
       },
+      {
+        name: "Mohsin Khan",
+        position: "Senior FD Representative - British Columbia",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/01/Penny-Appeal-Staff-Illustrations_Mohsin-Khan.png",
+      },
      
        {
         name: "Muhammad Mauthoor",
