@@ -221,7 +221,7 @@ const teamMembers = [
       },
       {
         name: "Mohsin Khan",
-        position: "Senior FD Representative - British Columbia",
+        position: "Senior FD Specialist - British Columbia",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/01/Penny-Appeal-Staff-Illustrations_Mohsin-Khan.png",
       },
