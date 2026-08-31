@@ -92,7 +92,7 @@ const teamMembers = [
         name: "Jenan Ghaly",
         position: "Programs Support Officer",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2026/08/Nimco-PNG.png",
+          "https://pennyappeal.ca/wp-content/uploads/2026/08/Jenan-PNG.png",
         quote: "Think outside the box",
       },
     ],
@@ -219,7 +219,7 @@ const teamMembers = [
         name: "Maresa Archibald",
         position: "Inventory & Operations Coordinator",
         image:
-          "https://pennyappeal.ca/wp-content/uploads/2026/04/pac-team-template_Shamniz.png",
+          "https://pennyappeal.ca/wp-content/uploads/2026/08/Maresa-PNG.png",
       },
      
     ],
