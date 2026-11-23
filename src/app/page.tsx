@@ -139,6 +139,12 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Sahar-PNG.png",
       },
+      {
+        name: "Bernice Askary",
+        position: "Marketing Coordinator",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/11/Bernice-Heng_PNG.png",
+      },
     ],
   },
   {
@@ -149,6 +155,12 @@ const teamMembers = [
         position: "Accounting Assistant",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Ananya-PNG.png",
+      },
+      {
+        name: "Monazza Syed",
+        position: "Accounting Assistant",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/11/Monazza_PNG.png",
       },
      
     ],
@@ -269,12 +281,25 @@ const teamMembers = [
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Ammar-PNG.png",
         quote: "It’s only a crazy dream until you do it!",
+      }, {
+        name: "Abdul Rahman",
+        position: "Fund Development Coordinator",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/11/Abdul-Rahman_PNG.png",
+        quote: "It’s only a crazy dream until you do it!",
       },
       {
         name: "Amaan Abbasi",
-        position: "Fundraiser",
+        position: "Fundraising Representative",
         image:
           "https://pennyappeal.ca/wp-content/uploads/2026/08/Amaan-PNG.png",
+        quote: "It’s only a crazy dream until you do it!",
+      },
+       {
+        name: "Tameem Ahmad",
+        position: "Fundraising Representative",
+        image:
+          "https://pennyappeal.ca/wp-content/uploads/2026/11/Tameem-Ahmad_PNG.png",
         quote: "It’s only a crazy dream until you do it!",
       },
     ],
